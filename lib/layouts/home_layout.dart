@@ -36,7 +36,6 @@ class _HomeScreenLayoutState extends State<HomeScreenLayout> {
     // TODO: implement initState
     super.initState();
     createDataBase();
-
   }
 
   @override
